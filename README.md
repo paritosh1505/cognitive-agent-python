@@ -73,9 +73,5 @@ The test suite uses `tests/test_agent6.py` which includes `FakeToolModule` and `
 ## Suggestions / common edits
 - `.gitignore` already includes `.env` and `usage.json`. Consider also ignoring common virtualenv directories (e.g. `.venv/`) if you use them.
 
-## Contact / next steps
-- If you want, I can:
-  - Add a short `Makefile` or `scripts/` helpers for common commands.
-  - Expand README with developer notes on adding new tools.
 
 ---
