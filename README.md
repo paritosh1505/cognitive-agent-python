@@ -79,4 +79,3 @@ The test suite uses `tests/test_agent6.py` which includes `FakeToolModule` and `
   - Expand README with developer notes on adding new tools.
 
 ---
-Generated on: 2026-05-21
