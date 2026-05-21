@@ -1,4 +1,4 @@
-# Session 6 Cognitive Agent (agent6)
+# Cognitive Agent
 
 This repository contains a small cognitive agent example (Session 6) that runs a decision/perception loop backed by an LLM gateway and a set of sandboxed tools. The main entrypoint is `agent6.py` and the tool implementations are in `mcp_server.py`.
 
